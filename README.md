@@ -318,7 +318,7 @@ After answering:
 - 🔄 20+ language support
 
 ---
-
+### To view the project, u can watch the video through this link - https://drive.google.com/file/d/1KVVFwBqhzW4poA46sNxoFSNtBn5we7L1/view?usp=sharing
 
 
 <div align="center">
